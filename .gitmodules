@@ -1,0 +1,4 @@
+[submodule "android/uCrop"]
+	path = android/uCrop
+	url = https://github.com/zaheradev/uCrop.git
+	branch = zahera
